@@ -1,0 +1,1 @@
+import{bb as o,eb as n,fb as a,gb as s,ib as m,r as c,u as t}from"./chunk-TYHUPPM4.js";var u=(()=>{class e extends n{constructor(r,i,p,f){super({name:"healthpharmacy"},r,i,p,f)}static{this.\u0275fac=function(i){return new(i||e)(t(s),t(a),t(m),t(o))}}static{this.\u0275prov=c({token:e,factory:e.\u0275fac,providedIn:"root"})}}return e})();export{u as a};
