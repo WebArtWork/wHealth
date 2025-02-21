@@ -1,0 +1,1 @@
+import{jb as r,r as e}from"./chunk-Y3DFIZTY.js";var s=(()=>{class t extends r{constructor(){super({name:"healthplace"}),this.healthplaces=this.getDocs()}static{this.\u0275fac=function(o){return new(o||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{s as a};
