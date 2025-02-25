@@ -1,0 +1,1 @@
+import{ib as i,r as e}from"./chunk-STQM5VJK.js";var s=(()=>{class t extends i{constructor(){super({name:"healthclinic"}),this.healthclinics=this.getDocs(),this.get({},{name:"public"})}static{this.\u0275fac=function(r){return new(r||t)}}static{this.\u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})}}return t})();export{s as a};
